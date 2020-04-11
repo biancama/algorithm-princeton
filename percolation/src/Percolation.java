@@ -3,7 +3,7 @@ import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 public class Percolation {
 
-    private final boolean[][] grid;
+    private final boolean[] grid;
 
     private final WeightedQuickUnionUF quickUnionUF;
     private final WeightedQuickUnionUF quickUnionUFForFull;
@@ -24,11 +24,9 @@ public class Percolation {
         numberOfOpenSites = 0;
         percolates = false;
         this.n = n;
-        grid = new boolean[n][n];
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                grid[i][j] = false;
-            }
+        grid = new boolean[n*n];
+        for (int i = 0; i < n*n; i++) {
+                grid[i] = false;
         }
         /*
          2 virtual nodes, and the grid
@@ -59,7 +57,7 @@ public class Percolation {
     public void open(int row, int col) {
         if (!isOpen(row, col) ) {
             numberOfOpenSites++;
-            grid[row-1][col-1] = true;
+            grid[(row - 1) * n + col - 1] = true;
             int elemInUnion = indexOfElement(row, col);
             if (row == 1) { // connect at least with top
                 quickUnionUF.union(elemInUnion, top);
@@ -68,19 +66,19 @@ public class Percolation {
             if (row == n) { // connect at least with bottom
                 quickUnionUF.union(elemInUnion, bottom);
             }
-            if (row > 1 && grid[row-2][col-1]) { // need to connect the top
+            if (row > 1 && grid[(row - 2) * n + col - 1]) { // need to connect the top
                 quickUnionUF.union(elemInUnion, indexOfElement(row - 1, col));
                 quickUnionUFForFull.union(elemInUnion, indexOfElement(row - 1, col));
             }
-            if (col > 1 && grid[row-1][col -2]) {  // need to connect the left
+            if (col > 1 && grid[(row - 1) * n + col - 2]) {  // need to connect the left
                 quickUnionUF.union(elemInUnion, indexOfElement(row, col - 1));
                 quickUnionUFForFull.union(elemInUnion, indexOfElement(row, col - 1));
             }
-            if (col < n && grid[row-1][col]) { // need to connect the right
+            if (col < n && grid[(row - 1) * n + col]) { // need to connect the right
                 quickUnionUF.union(elemInUnion, indexOfElement(row, col + 1));
                 quickUnionUFForFull.union(elemInUnion, indexOfElement(row, col + 1));
             }
-            if (row < n && grid[row][col-1]) { // need to connect the bottom
+            if (row < n && grid[row * n + col - 1]) { // need to connect the bottom
                 quickUnionUF.union(elemInUnion, indexOfElement(row + 1, col));
                 quickUnionUFForFull.union(elemInUnion, indexOfElement(row + 1, col));
             }
@@ -90,7 +88,7 @@ public class Percolation {
     // is the site (row, col) open?
     public boolean isOpen(int row, int col) {
         validate(row, col);
-        return grid[row-1][col-1];
+        return grid[(row-1) * n +  col - 1];
     }
 
     // is the site (row, col) full?

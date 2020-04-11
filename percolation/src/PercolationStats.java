@@ -11,8 +11,11 @@ public class PercolationStats {
     private final double stddev;
     // perform independent trials on an n-by-n grid
     public PercolationStats(int n, int trials) {
-        if (n <= 0 || trials <= 0) {
-            throw new IllegalArgumentException("n and trials must greater than 0");
+        if (n <= 0) {
+            throw new IllegalArgumentException("n <= 0.");
+        }
+        if (trials <= 0) {
+            throw new IllegalArgumentException("trials <= 0.");
         }
         double[] x  = new double[trials];
         numberOfTrials = trials;
