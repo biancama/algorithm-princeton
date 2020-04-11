@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c672fd7-7604-4238-89d2-36e632353f1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aJQ8XW5d6MV1TU2twtgPuiWtxc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PercolationStats">
+    <configuration name="Percolation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Percolation" />
+      <module name="percolation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationStats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="percolation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PercolationVisualizer" />
+      <module name="percolation" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/percolation/files/input3.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Percolation" />
+      <item itemvalue="Application.PercolationStats" />
+      <item itemvalue="Application.PercolationVisualizer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PercolationStats" />
+        <item itemvalue="Application.Percolation" />
+        <item itemvalue="Application.PercolationVisualizer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c672fd7-7604-4238-89d2-36e632353f1c" name="Default Changelist" comment="" />
+      <created>1586451057557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586451057557</updated>
+      <workItem from="1586451058824" duration="6441000" />
+      <workItem from="1586498504385" duration="791000" />
+      <workItem from="1586500002791" duration="7056000" />
+      <workItem from="1586540626815" duration="466000" />
+      <workItem from="1586586718147" duration="15663000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="278" key="#Auto_Import" timestamp="1586454540116">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="560" y="278" key="#Auto_Import/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586454540116" />
+    <state x="560" y="278" key="#Project_Structure" timestamp="1586451552969">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="560" y="278" key="#Project_Structure/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586451552969" />
+    <state x="424" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586599620676">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="424" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586599620676" />
+    <state x="747" y="325" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1586599611280">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="747" y="325" key="#com.intellij.ide.macro.MacrosDialog/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586599611280" />
+    <state x="723" y="325" key="#xdebugger.evaluate" timestamp="1586606142657">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="723" y="325" key="#xdebugger.evaluate/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586606142657" />
+    <state width="464" height="466" key="DebuggerActiveHint" timestamp="1586599865552">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="464" height="466" key="DebuggerActiveHint/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586599865552" />
+    <state width="1878" height="328" key="GridCell.Tab.0.bottom" timestamp="1586609516170">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.bottom/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586609516170" />
+    <state width="1878" height="328" key="GridCell.Tab.0.center" timestamp="1586609516169">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.center/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586609516169" />
+    <state width="1878" height="328" key="GridCell.Tab.0.left" timestamp="1586609516168">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.left/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586609516168" />
+    <state width="1878" height="328" key="GridCell.Tab.0.right" timestamp="1586609516169">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.right/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586609516169" />
+    <state width="1878" height="405" key="GridCell.Tab.1.bottom" timestamp="1586606203231">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="405" key="GridCell.Tab.1.bottom/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586606203231" />
+    <state width="1878" height="405" key="GridCell.Tab.1.center" timestamp="1586606203226">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="405" key="GridCell.Tab.1.center/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586606203226" />
+    <state width="1878" height="405" key="GridCell.Tab.1.left" timestamp="1586606203222">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="405" key="GridCell.Tab.1.left/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586606203222" />
+    <state width="1878" height="405" key="GridCell.Tab.1.right" timestamp="1586606203228">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="405" key="GridCell.Tab.1.right/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586606203228" />
+    <state x="469" y="250" key="SettingsEditor" timestamp="1586498620974">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="469" y="250" key="SettingsEditor/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586498620974" />
+    <state x="690" y="350" width="540" height="524" key="StructurePopup" timestamp="1586601101841">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="690" y="350" width="540" height="524" key="StructurePopup/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586601101841" />
+    <state x="630" y="446" key="com.intellij.ide.util.TipDialog" timestamp="1586586717873">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="630" y="446" key="com.intellij.ide.util.TipDialog/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586586717873" />
+    <state x="389" y="217" key="new project wizard" timestamp="1586451107018">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="389" y="217" key="new project wizard/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586451107018" />
+    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1586454155743">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586454155743" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/percolation/src/PercolationStats.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/percolation/src/PercolationVisualizer.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/percolation/src/Percolation.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/percolation/src/Percolation.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/percolation/src/Percolation.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithm_princeton$Percolation.ic" NAME="Percolation Coverage Results" MODIFIED="1586504827506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
