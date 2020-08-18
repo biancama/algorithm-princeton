@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1c672fd7-7604-4238-89d2-36e632353f1c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/percolation/src/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/percolation/src/Percolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/2735daeaefa8f6bb0ebddf5fe7e8022cf62ca0d4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/2735daeaefa8f6bb0ebddf5fe7e8022cf62ca0d4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collinear-point/collinear-point.iml" beforeDir="false" afterPath="$PROJECT_DIR$/collinear-point/collinear-point.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collinear-point/files/input4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/collinear-point/files/input4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collinear-point/files/input5_same_point.txt" beforeDir="false" afterPath="$PROJECT_DIR$/collinear-point/files/input5_same_point.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collinear-point/files/input6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/collinear-point/files/input6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collinear-point/files/input8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/collinear-point/files/input8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collinear-point/files/input9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/collinear-point/files/input9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collinear-point/files/input_null_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/collinear-point/files/input_null_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collinear-point/src/BruteCollinearPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/collinear-point/src/BruteCollinearPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collinear-point/src/FastCollinearPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/collinear-point/src/FastCollinearPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collinear-point/src/LineSegment.java" beforeDir="false" afterPath="$PROJECT_DIR$/collinear-point/src/LineSegment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collinear-point/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/collinear-point/src/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/percolation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/percolation/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,60 +59,117 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/collinear-point/files" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/collinear-point/files" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/queue-stack/files" />
       <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PercolationStats">
-    <configuration name="Percolation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Percolation" />
-      <module name="percolation" />
+  <component name="RunManager" selected="Application.FastCollinearPoints">
+    <configuration name="BruteCollinearPoints" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="BruteCollinearPoints" />
+      <module name="collinear-point" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/collinear-point/files/input5_same_point.txt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PercolationStats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
-      <module name="percolation" />
+    <configuration name="Deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Deque" />
+      <module name="queue-stack" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PercolationVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PercolationVisualizer" />
-      <module name="percolation" />
-      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/percolation/files/input3.txt" />
+    <configuration name="FastCollinearPoints" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FastCollinearPoints" />
+      <module name="collinear-point" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/collinear-point/files/input9.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Permutation" />
+      <module name="queue-stack" />
+      <option name="PROGRAM_PARAMETERS" value="2" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/queue-stack/files/permutation8.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point" />
+      <module name="collinear-point" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomizedQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomizedQueue" />
+      <module name="queue-stack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Percolation" />
-      <item itemvalue="Application.PercolationStats" />
-      <item itemvalue="Application.PercolationVisualizer" />
+      <item itemvalue="Application.FastCollinearPoints" />
+      <item itemvalue="Application.Deque" />
+      <item itemvalue="Application.RandomizedQueue" />
+      <item itemvalue="Application.Permutation" />
+      <item itemvalue="Application.Point" />
+      <item itemvalue="Application.BruteCollinearPoints" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PercolationStats" />
-        <item itemvalue="Application.Percolation" />
-        <item itemvalue="Application.PercolationVisualizer" />
+        <item itemvalue="Application.BruteCollinearPoints" />
+        <item itemvalue="Application.Permutation" />
+        <item itemvalue="Application.Point" />
+        <item itemvalue="Application.RandomizedQueue" />
+        <item itemvalue="Application.Deque" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -103,90 +184,153 @@
       <workItem from="1586498504385" duration="791000" />
       <workItem from="1586500002791" duration="7056000" />
       <workItem from="1586540626815" duration="466000" />
-      <workItem from="1586586718147" duration="16803000" />
+      <workItem from="1586586718147" duration="19242000" />
+      <workItem from="1586617022723" duration="116000" />
+      <workItem from="1590385191364" duration="15630000" />
+      <workItem from="1590469202759" duration="16577000" />
+      <workItem from="1590556994513" duration="51000" />
+      <workItem from="1594308675493" duration="2500000" />
+      <workItem from="1594367983341" duration="466000" />
+      <workItem from="1594850751179" duration="203000" />
+      <workItem from="1594882329836" duration="1899000" />
+      <workItem from="1594899544874" duration="268000" />
+      <workItem from="1594923578757" duration="1029000" />
+      <workItem from="1594971784420" duration="8142000" />
+      <workItem from="1595230575174" duration="568000" />
+      <workItem from="1595312820308" duration="287000" />
+      <workItem from="1595583453425" duration="12328000" />
+      <workItem from="1595612652961" duration="1053000" />
+      <workItem from="1595613874622" duration="1946000" />
+      <workItem from="1595840143214" duration="4044000" />
+      <workItem from="1595919103793" duration="1776000" />
+      <workItem from="1596004721543" duration="1608000" />
+      <workItem from="1597312803248" duration="3282000" />
+      <workItem from="1597324152837" duration="4553000" />
+      <workItem from="1597403520117" duration="2134000" />
+      <workItem from="1597658548564" duration="5480000" />
+      <workItem from="1597744309222" duration="1398000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="278" key="#Auto_Import" timestamp="1586454540116">
+    <state x="420" y="23" key="#Auto_Import" timestamp="1594990643551">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="420" y="23" key="#Auto_Import/0.23.1440.877@0.23.1440.877" timestamp="1594990643551" />
+    <state x="560" y="278" key="#Project_Structure" timestamp="1594310131797">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="560" y="278" key="#Auto_Import/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586454540116" />
-    <state x="560" y="278" key="#Project_Structure" timestamp="1586451552969">
+    <state x="560" y="278" key="#Project_Structure/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1594310131797" />
+    <state x="424" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597313959275">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="560" y="278" key="#Project_Structure/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586451552969" />
-    <state x="424" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586599620676">
+    <state x="318" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1595919533007" />
+    <state x="424" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1177/1920.23.1680.1027/-1440.23.1440.877@0.23.1920.1177" timestamp="1597313959275" />
+    <state x="424" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1590476614059" />
+    <state x="747" y="325" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1590427742578">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="424" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586599620676" />
-    <state x="747" y="325" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1586599611280">
+    <state x="747" y="325" key="#com.intellij.ide.macro.MacrosDialog/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1590427742578" />
+    <state x="580" y="255" key="#com.intellij.ide.util.MemberChooser" timestamp="1595584316106">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="580" y="255" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1595584316106" />
+    <state x="773" y="334" key="#com.intellij.ide.util.MemberChooser/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1590473153916" />
+    <state x="591" y="346" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1595594924399">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="591" y="346" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.877@0.23.1440.877" timestamp="1595594924399" />
+    <state x="810" y="458" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1594310130360">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="747" y="325" key="#com.intellij.ide.macro.MacrosDialog/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586599611280" />
-    <state x="723" y="325" key="#xdebugger.evaluate" timestamp="1586606142657">
+    <state x="810" y="458" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1594310130360" />
+    <state x="542" y="248" key="#xdebugger.evaluate" timestamp="1595597924472">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="542" y="248" key="#xdebugger.evaluate/0.23.1440.877@0.23.1440.877" timestamp="1595597924472" />
+    <state x="723" y="325" key="#xdebugger.evaluate/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1590473466497" />
+    <state width="680" height="468" key="DebuggerActiveHint" timestamp="1597321585629">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="723" y="325" key="#xdebugger.evaluate/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586606142657" />
-    <state width="464" height="466" key="DebuggerActiveHint" timestamp="1586599865552">
+    <state width="510" height="348" key="DebuggerActiveHint/0.23.1440.877@0.23.1440.877" timestamp="1595614611348" />
+    <state width="680" height="468" key="DebuggerActiveHint/0.23.1920.1177/1920.23.1680.1027/-1440.23.1440.877@0.23.1920.1177" timestamp="1597321585629" />
+    <state width="492" height="466" key="DebuggerActiveHint/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1590473480231" />
+    <state width="1878" height="406" key="GridCell.Tab.0.bottom" timestamp="1597676985058">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="464" height="466" key="DebuggerActiveHint/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586599865552" />
-    <state width="1878" height="328" key="GridCell.Tab.0.bottom" timestamp="1586612253133">
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1595946349006" />
+    <state width="1878" height="406" key="GridCell.Tab.0.bottom/0.23.1920.1177/1920.23.1680.1027/-1440.23.1440.877@0.23.1920.1177" timestamp="1597676985058" />
+    <state width="1878" height="330" key="GridCell.Tab.0.bottom/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1594312044805" />
+    <state width="1878" height="406" key="GridCell.Tab.0.center" timestamp="1597676985058">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1878" height="328" key="GridCell.Tab.0.bottom/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586612253133" />
-    <state width="1878" height="328" key="GridCell.Tab.0.center" timestamp="1586612253130">
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1595946349006" />
+    <state width="1878" height="406" key="GridCell.Tab.0.center/0.23.1920.1177/1920.23.1680.1027/-1440.23.1440.877@0.23.1920.1177" timestamp="1597676985058" />
+    <state width="1878" height="330" key="GridCell.Tab.0.center/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1594312044804" />
+    <state width="1878" height="406" key="GridCell.Tab.0.left" timestamp="1597676985057">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1878" height="328" key="GridCell.Tab.0.center/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586612253130" />
-    <state width="1878" height="328" key="GridCell.Tab.0.left" timestamp="1586612253129">
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1595946349006" />
+    <state width="1878" height="406" key="GridCell.Tab.0.left/0.23.1920.1177/1920.23.1680.1027/-1440.23.1440.877@0.23.1920.1177" timestamp="1597676985057" />
+    <state width="1878" height="330" key="GridCell.Tab.0.left/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1594312044804" />
+    <state width="1878" height="406" key="GridCell.Tab.0.right" timestamp="1597676985058">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1878" height="328" key="GridCell.Tab.0.left/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586612253129" />
-    <state width="1878" height="328" key="GridCell.Tab.0.right" timestamp="1586612253131">
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1595946349006" />
+    <state width="1878" height="406" key="GridCell.Tab.0.right/0.23.1920.1177/1920.23.1680.1027/-1440.23.1440.877@0.23.1920.1177" timestamp="1597676985058" />
+    <state width="1878" height="330" key="GridCell.Tab.0.right/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1594312044805" />
+    <state width="1878" height="406" key="GridCell.Tab.1.bottom" timestamp="1597676985059">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1878" height="328" key="GridCell.Tab.0.right/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586612253131" />
-    <state width="1878" height="405" key="GridCell.Tab.1.bottom" timestamp="1586606203231">
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1595946348986" />
+    <state width="1878" height="406" key="GridCell.Tab.1.bottom/0.23.1920.1177/1920.23.1680.1027/-1440.23.1440.877@0.23.1920.1177" timestamp="1597676985059" />
+    <state width="1878" height="406" key="GridCell.Tab.1.bottom/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1590508021767" />
+    <state width="1878" height="406" key="GridCell.Tab.1.center" timestamp="1597676985059">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1878" height="405" key="GridCell.Tab.1.bottom/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586606203231" />
-    <state width="1878" height="405" key="GridCell.Tab.1.center" timestamp="1586606203226">
+    <state width="1398" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1595946348985" />
+    <state width="1878" height="406" key="GridCell.Tab.1.center/0.23.1920.1177/1920.23.1680.1027/-1440.23.1440.877@0.23.1920.1177" timestamp="1597676985059" />
+    <state width="1878" height="406" key="GridCell.Tab.1.center/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1590508021766" />
+    <state width="1878" height="406" key="GridCell.Tab.1.left" timestamp="1597676985059">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1878" height="405" key="GridCell.Tab.1.center/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586606203226" />
-    <state width="1878" height="405" key="GridCell.Tab.1.left" timestamp="1586606203222">
+    <state width="1398" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1595946348985" />
+    <state width="1878" height="406" key="GridCell.Tab.1.left/0.23.1920.1177/1920.23.1680.1027/-1440.23.1440.877@0.23.1920.1177" timestamp="1597676985059" />
+    <state width="1878" height="406" key="GridCell.Tab.1.left/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1590508021765" />
+    <state width="1878" height="406" key="GridCell.Tab.1.right" timestamp="1597676985059">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1878" height="405" key="GridCell.Tab.1.left/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586606203222" />
-    <state width="1878" height="405" key="GridCell.Tab.1.right" timestamp="1586606203228">
+    <state width="1398" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1595946348986" />
+    <state width="1878" height="406" key="GridCell.Tab.1.right/0.23.1920.1177/1920.23.1680.1027/-1440.23.1440.877@0.23.1920.1177" timestamp="1597676985059" />
+    <state width="1878" height="406" key="GridCell.Tab.1.right/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1590508021767" />
+    <state x="698" y="368" key="extract.method.dialog" timestamp="1590409605226">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1878" height="405" key="GridCell.Tab.1.right/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586606203228" />
-    <state x="469" y="250" key="SettingsEditor" timestamp="1586498620974">
+    <state x="698" y="368" key="extract.method.dialog/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1590409605226" />
+    <state x="500" y="279" width="568" height="490" key="find.popup" timestamp="1596004875753">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="500" y="279" width="568" height="490" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1596004875753" />
+    <state x="667" y="366" width="586" height="490" key="find.popup/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1590429950687" />
+    <state x="389" y="217" key="new project wizard" timestamp="1594309648904">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="469" y="250" key="SettingsEditor/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586498620974" />
-    <state x="690" y="350" width="540" height="524" key="StructurePopup" timestamp="1586601101841">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state x="690" y="350" width="540" height="524" key="StructurePopup/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586601101841" />
-    <state x="630" y="446" key="com.intellij.ide.util.TipDialog" timestamp="1586586717873">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state x="630" y="446" key="com.intellij.ide.util.TipDialog/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586586717873" />
-    <state x="389" y="217" key="new project wizard" timestamp="1586451107018">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state x="389" y="217" key="new project wizard/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586451107018" />
-    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1586454155743">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup/1920.23.1680.1027/0.23.1920.1177/-1440.323.1440.877@0.23.1920.1177" timestamp="1586454155743" />
+    <state x="389" y="217" key="new project wizard/1920.23.1680.1027/0.23.1920.1177/-1440.23.1440.877@0.23.1920.1177" timestamp="1594309648904" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -215,6 +359,21 @@
           <url>file://$PROJECT_DIR$/percolation/src/Percolation.java</url>
           <line>57</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/queue-stack/src/Deque.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/collinear-point/src/FastCollinearPoints.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/collinear-point/src/BruteCollinearPoints.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="71" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

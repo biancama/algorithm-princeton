@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/algorithm-princeton.iml" filepath="$PROJECT_DIR$/algorithm-princeton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collinear-point/collinear-point.iml" filepath="$PROJECT_DIR$/collinear-point/collinear-point.iml" />
       <module fileurl="file://$PROJECT_DIR$/percolation/percolation.iml" filepath="$PROJECT_DIR$/percolation/percolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue-stack/queue-stack.iml" filepath="$PROJECT_DIR$/queue-stack/queue-stack.iml" />
     </modules>
   </component>
 </project>
