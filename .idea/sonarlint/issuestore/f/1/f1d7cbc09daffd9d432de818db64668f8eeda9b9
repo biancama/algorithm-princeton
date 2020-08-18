@@ -1,0 +1,10 @@
+
+N
+java:S1874;",Remove this use of "show"; it is deprecated.(¬ü†ÿøÿÿÿÿ8Œ†£Ä–.
+I
+java:S1874.",Remove this use of "show"; it is deprecated.(¸Ž‘Ô8Œ†£Ä–.
+r	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºìÄØûÿÿÿÿ8¤Þ‘Ä–.
+N
+java:S18743",Remove this use of "show"; it is deprecated.(¬ü†ÿøÿÿÿÿ8Œ†£Ä–.
+r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ–Œôüÿÿÿÿ8Œ†£Ä–.
